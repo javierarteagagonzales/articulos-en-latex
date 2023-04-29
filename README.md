@@ -1,2 +1,2 @@
-# artículos-en-latex
-proyectos, artículos y tesis en LaTeX
+# proyectos-latex
+proyectos y apuntes en latex hechos desde overleaf y plataforma de escritorio.
